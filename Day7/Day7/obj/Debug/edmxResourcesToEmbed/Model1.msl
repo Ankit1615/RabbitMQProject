@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ItrondbModelStoreContainer" CdmEntityContainer="ItrondbEntities">
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="ItrondbModel.customer">
+        <MappingFragment StoreEntitySet="customers">
+          <ScalarProperty Name="caddress" ColumnName="caddress" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="cuid" ColumnName="cuid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

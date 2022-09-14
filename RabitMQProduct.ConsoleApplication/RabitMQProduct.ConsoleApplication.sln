@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabitMQProduct.ConsoleApplication", "RabitMQProduct.ConsoleApplication\RabitMQProduct.ConsoleApplication.csproj", "{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		RabitMQPracticeAPI|Any CPU = RabitMQPracticeAPI|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.Debug|Any CPU.ActiveCfg = RabitMQPracticeAPI|Any CPU
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.Debug|Any CPU.Build.0 = RabitMQPracticeAPI|Any CPU
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.RabitMQPracticeAPI|Any CPU.ActiveCfg = RabitMQPracticeAPI|Any CPU
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.RabitMQPracticeAPI|Any CPU.Build.0 = RabitMQPracticeAPI|Any CPU
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68273A0B-450C-40E1-BE02-EAFCB98AF2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06BD69E9-B4B0-4361-8F37-749C23D0FA36}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\anyadav\source\repos\demo\demo\bin\Debug\demo.exe.config
+C:\Users\anyadav\source\repos\demo\demo\bin\Debug\demo.exe
+C:\Users\anyadav\source\repos\demo\demo\bin\Debug\demo.pdb
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.exe
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.pdb
+C:\Users\anyadav\source\repos\demo\demo\bin\Debug\ClassLibrary1.dll
+C:\Users\anyadav\source\repos\demo\demo\bin\Debug\ClassLibrary1.pdb
+C:\Users\anyadav\source\repos\demo\demo\obj\Debug\demo.csproj.CopyComplete
